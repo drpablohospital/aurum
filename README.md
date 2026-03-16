@@ -1,0 +1,2 @@
+# aurum
+trading-bot
