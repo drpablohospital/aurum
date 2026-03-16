@@ -1,0 +1,46 @@
+{
+  "symbol": "BTC/USDT:USDT",
+  "market_symbol": "BTCUSDT",
+
+  "poll_seconds": 10,
+  "status_heartbeat_seconds": 60,
+
+  "tf_entry": "5m",
+
+  "use_1h_trend_filter": true,
+  "ema_fast_1h": 50,
+  "ema_slow_1h": 200,
+
+  "ema_fast_15m": 50,
+  "ema_slow_15m": 200,
+
+  "donchian_window_15m": 96,
+
+  "rsi_len_15m": 14,
+  "rsi_long": 58,
+  "rsi_short": 42,
+
+  "slippage_roundtrip_pct": 0.0001,
+  "label_exits": true,
+
+  "atr_len_15m": 14,
+  "atr_ma_window_15m": 96,
+  "atr_min_mult": 1.25,
+
+  "breakout_buffer_atr": 0.55,
+
+  "sl_atr_mult": 1.10,
+  "tp_atr_mult": 3.20,
+
+  "breakeven_R": 1.0,
+  "trail_start_R": 1.5,
+  "trail_atr_mult": 1.0,
+
+  "max_hold_minutes": 360,
+  "cooldown_minutes": 180,
+
+  "risk_per_trade_pct": 0.5,
+
+  "fees_enabled": true,
+  "fee_rate_roundtrip": 0.001
+}

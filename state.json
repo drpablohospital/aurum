@@ -1,0 +1,30 @@
+{
+  "paused": false,
+  "loss_streak": 0,
+  "cooldown_until": 0,
+  "armed": {
+    "active": false,
+    "side": "LONG",
+    "armed_ts": 1773161110,
+    "expires_ts": 1773162910,
+    "deadline_dt": "2026-03-10T17:15:00+00:00",
+    "trigger_level": 71993.8878831827,
+    "atr15": 446.8870603321726,
+    "init_sl_px": 71502.31211681731,
+    "tp_px": 73423.92647624566,
+    "note": "hh_prev=71748.1 ll_prev=68200.1 atr15=446.89 buf=245.79"
+  },
+  "orders": {
+    "sl_id": null,
+    "tp_id": null
+  },
+  "trade": {
+    "entry_time": null,
+    "entry_px": null,
+    "init_sl_px": null,
+    "tp_px": null,
+    "atr15": null,
+    "max_fav_R": -999,
+    "trail_active": false
+  }
+}
